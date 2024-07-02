@@ -2,7 +2,8 @@
 
 
 
-## Créer un dossier dev dans ressource/serveur
+## Créer un dossier dev dans ressource/[dev]
+Et tu met esx_meteo dedans
 
 ### Rajoute 
 ```
